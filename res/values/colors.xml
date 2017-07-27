@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="landscapeBackground">#BBDEFB</color>
+    <color name="fragment_landscape">#B39DDB</color>
+    <color name="fragment_one">#64B5F6</color>
+    <color name="fragment_two">#7986CB</color>
+</resources>
